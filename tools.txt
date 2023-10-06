@@ -4,3 +4,4 @@ jenkins is a popular devops automation tool
 docker is popular container runtime
 Ansible is easy to learn
 Kubernetes is container orchestration tool
+Argo CD is kubernetes continuous deployment tool
