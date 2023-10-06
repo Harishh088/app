@@ -5,3 +5,4 @@ docker is popular container runtime
 Ansible is easy to learn
 kubernetes is comprehensive orchestration tool
 Kubernetes is container orchestration tool
+Argo CD is kubernetes continuous deployment tool
